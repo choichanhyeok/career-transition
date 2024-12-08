@@ -1,5 +1,5 @@
 ---
-name: TODO
+name: "`[TODO]`. "
 about: 해야 할 일에 대한 정리를 위한 템플릿
 title: ''
 labels: PLAN, TODO
